@@ -1,8 +1,8 @@
-### Hi there! I'm Eliel👋
+### Hello, I'm Eliel👋😊
 
 ### I’m a System Development student in Brazil
 - 🔭 I’m currently working on web applications in PHP and Javascript
-- 🌱 I’m currently learning react
+- 🌱 I’m currently studying Node.js and MongoDB
 <!--
 **oliveiraeliel/oliveiraeliel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
