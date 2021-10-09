@@ -1,8 +1,9 @@
 ### Hello, I'm Eliel👋😊
 
-### I’m a System Development student in Brazil
+### I’m a brazillian System Development student.👨‍🎓 I'm 17!🎇
 - 🔭 I’m currently working on web applications in PHP and Javascript
 - 🌱 I’m currently studying Node.js and MongoDB
+- 📚 I'm studying to get a place in Computer Science at Unicamp
 <!--
 **oliveiraeliel/oliveiraeliel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
