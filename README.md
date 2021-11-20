@@ -1,5 +1,5 @@
 ### Hello, I'm Eliel👋😊
-<!-- ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=oliveiraeliel&oliveiraeliel&countColor=%237B1E7A) -->
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=oliveiraeliel&oliveiraeliel&countColor=%237B1E7A)
 
  <div align="center">
   <a href="https://github.com/oliveiraeliel">
@@ -19,9 +19,9 @@
   <img align="right" alt="Eliel-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/mUbthfc.jpeg">
 </div>
  
-### Interested in
-<div style="display: inline_block"><br>
+<!-- ### Interested in -->
+<!-- <div style="display: inline_block"><br> -->
 <!--   <img align="center" alt="Eliel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-  <img align="center" alt="Eliel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Eliel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
+<!--   <img align="center" alt="Eliel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
+<!--    <img align="center" alt="Eliel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> -->
+<!-- </div> -->
