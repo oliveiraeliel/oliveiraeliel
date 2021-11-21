@@ -1,5 +1,5 @@
 ### Hello, I'm Eliel👋😊
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=oliveiraeliel&oliveiraeliel&countColor=%237B1E7A)
+<!-- ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=oliveiraeliel&oliveiraeliel&countColor=%237B1E7A) -->
 
  <div align="center">
   <a href="https://github.com/oliveiraeliel">
