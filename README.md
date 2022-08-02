@@ -12,24 +12,27 @@
  
   # Tecnologies and Tools
 <div style="display: inline_block"><br>
- <img align="center" alt="Eliel-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- <img align="center" alt="Eliel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Eliel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Eliel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Eliel-Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Eliel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eliel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Eliel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Eliel-PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Eliel-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Eliel-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/mUbthfc.jpeg">
-   
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Postman](https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-purple?style=flat-square&logo=insomnia)
 </div>
  
-<!-- ### Interested in -->
-<!-- <div style="display: inline_block"><br> -->
+ ### Interested in 
+<div style="display: inline_block"><br>
 
-<!--   <img align="center" alt="Eliel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-<!--    <img align="center" alt="Eliel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> -->
-<!-- </div> -->
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-gray?style=flat-square&logo=postgresql)
+![Golang](https://img.shields.io/badge/-Golang-gray?style=flat-square&logo=go)
+![Docker](https://img.shields.io/badge/-Docker-gray?style=flat-square&logo=docker)
+![Vue](https://img.shields.io/badge/-Vue-gray?style=flat-square&logo=vue.js)
+</div> 
