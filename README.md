@@ -1,6 +1,6 @@
-### Hello, I'm Eliel👋😊
+# Pode entrar, só não repare a bagunça...
 
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=oliveiraeliel&oliveiraeliel&countColor=%237B1E7A)
+<!-- ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=oliveiraeliel&oliveiraeliel&countColor=%237B1E7A) -->
 
  <div align="center">
   <a href="https://github.com/oliveiraeliel">
@@ -9,7 +9,7 @@
 </div>
   
    ![Snake animation](https://github.com/oliveiraeliel/oliveiraeliel/blob/output/github-contribution-grid-snake.svg)
- 
+<!--  
   # Tecnologies and Tools
 <div style="display: inline_block"><br>
 
@@ -36,3 +36,4 @@
 ![Docker](https://img.shields.io/badge/-Docker-gray?style=flat-square&logo=docker)
 ![Vue](https://img.shields.io/badge/-Vue-gray?style=flat-square&logo=vue.js)
 </div> 
+ -->
